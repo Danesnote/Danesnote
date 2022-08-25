@@ -1,4 +1,4 @@
-<div align=center>
+
     
 ![Doyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danesnote&show_icons=true&theme=gruvbox)
 
@@ -27,7 +27,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-</div>
+
 
 
 <!--
