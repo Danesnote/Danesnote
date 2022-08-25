@@ -8,10 +8,12 @@
     
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danesnote&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
-  ### 
+  ### 👻Kim Do Yeon👀
     
+  ---
   
-<a href="https://solved.ac/tyxmfh"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tyxmfh"/></a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tyxmfh)](https://solved.ac/tyxmfh)
  
 <a href="https://dyk1005.tistory.com/">
     <img 
