@@ -11,7 +11,7 @@
   ### 
     
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tyxmfh)](https://solved.ac/tyxmfh)
+<a href="https://solved.ac/tyxmfh"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tyxmfh"/></a>
  
 <a href="https://dyk1005.tistory.com/">
     <img 
@@ -30,7 +30,5 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-  <br>
  
 </div>
