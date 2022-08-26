@@ -12,8 +12,7 @@
     
   ---
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tyxmfh)](https://solved.ac/tyxmfh)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tyxmfh)](https://solved.ac/tyxmfh)
  
 <a href="https://dyk1005.tistory.com/">
     <img 
