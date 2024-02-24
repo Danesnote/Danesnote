@@ -1,7 +1,4 @@
 
-  ### 화이팅해유~ 
-    
-  ---
 <a href="https://dyk1005.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
