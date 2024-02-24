@@ -1,19 +1,7 @@
 
-![Doyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danesnote&show_icons=true&theme=gruvbox)
-
-<div align="center">
-    
-    
-  ---
-    
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danesnote&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-
   ### 화이팅해유~ 
     
   ---
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tyxmfh)](https://solved.ac/tyxmfh)
- 
 <a href="https://dyk1005.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
